@@ -1,8 +1,9 @@
 {
   "scripts": {
-    "demo": "node hello.js"
+    "demo": "node demo.js"
   },
   "dependencies": {
+    "base64url": "^3.0.0",
     "lodash": "^4.17.10"
   }
 }
